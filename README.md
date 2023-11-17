@@ -28,6 +28,7 @@
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Badges by <a href="[https://shields.io/">shields.io](https://web.dio.me/users/irleneauzierrj?tab=achievements&page=1)</a><br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with 💜 by <a href="https://github.com/Irlene2">Irlene Auzier</a>.</div>
